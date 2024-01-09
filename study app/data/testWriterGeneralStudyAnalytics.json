@@ -1,0 +1,12 @@
+{"studyMethods": [
+    {
+        "name": "Study Method 1 Name",
+        "description": "Study Method 1 Description",
+        "time": 60
+    },
+    {
+        "name": "Study Method 2 Name",
+        "description": "Study Method 2 Description",
+        "time": 90
+    }
+]}
